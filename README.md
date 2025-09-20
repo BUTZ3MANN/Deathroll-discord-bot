@@ -114,8 +114,8 @@ pip install discord.py python-dotenv
 ---
 
 ## 👥 Contributors
-- **You** – Project creator  
-- **YouTube tutorials & AI tools** – For guidance and inspiration  
+- **Me** – Project creator  
+- **YouTube tutorials & AI tools** – For guide and inspiration  
 
 ---
 
